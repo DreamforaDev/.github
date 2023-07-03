@@ -1,18 +1,9 @@
-<img src="https://user-images.githubusercontent.com/37360089/201860717-80400f4d-5eb9-4c40-9482-1990a68e9a68.png" width="10%"/>
 
-# Dreamfora
+# [<img src="https://github.com/DreamforaDev/.github/assets/37360089/93cfdf57-fea9-4424-8897-44740d8467b8" width="30%"/>](https://dreamfora.com/)
 
-## Service / SNS
 
-💻 Service  l  [Website](https://dreamfora.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dreamfora) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thedreamfora/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dreamfora)
 
-💻 SNS  l  [Instagram](https://www.instagram.com/thedreamfora/)
-
-💻 SNS  l  [Youtube](https://www.youtube.com/channel/UCTRuU1NsgjkL0kVV0l-WvnQ)
-
-💻 SNS  l  [Blog](https://www.blog.dreamfora.com/)
-
-💻 SNS  l  [Facebook](https://www.facebook.com/dreamfora)
 
 <a href="https://play.google.com/store/apps/details?id=com.dreamfora.dreamfora" target="_blank">
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/37360089/201863295-6efb29a6-3c97-451b-b8e0-8d23544d38ee.png">
